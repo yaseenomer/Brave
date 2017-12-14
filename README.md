@@ -40,8 +40,7 @@ Brave supports dependency injection so you have complete control of your externa
    
  
  
-
-<h1>Configuration Application<h1>
+Configuration Application
 
 
 ```php
