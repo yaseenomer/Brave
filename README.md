@@ -43,7 +43,7 @@ Brave supports dependency injection so you have complete control of your externa
 Configuration Application
 
 
-```php
+php
  'settings' => [
         // Slim Settings
         'determineRouteBeforeAppMiddleware' => true,
@@ -63,7 +63,7 @@ Configuration Application
                 'prefix'       => '',
             ]
     ];
-```
+
 
 
 <h3>powered by </h3>
